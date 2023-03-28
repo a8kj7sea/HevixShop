@@ -1,0 +1,7 @@
+name: HevixShop
+main: me.sanhak.hevixshop.main.Main
+author: Sanhak
+version: 0.1
+commands:
+  hsreload:
+  hsopen:
